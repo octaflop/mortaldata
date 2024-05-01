@@ -9,6 +9,7 @@
 1. `python3.12 -m venv .venv && . .venv/bin/activate` will set up a python3.12 virutal environment in `.venv`
 2. `pip install -r requirements.txt`
 3. `jupyter notebook 000_setup.ipynb` and follow the instructions from there!
+4. **NOTE**: The download is 10GB
 
 ## Presentation
 
