@@ -11,6 +11,8 @@
 3. `jupyter notebook 000_setup.ipynb` and follow the instructions from there!
 4. **NOTE**: The download is 10GB
 
-## Presentation
+## [Presentation](https://docs.google.com/presentation/d/1OuDTdbGm-gRaF3Temt00N3f4AAdCCTpvERb-Sy8DZ8c/edit?usp=sharing)
 
-(link coming soon)
+[![img.png](img.png)](https://docs.google.com/presentation/d/1OuDTdbGm-gRaF3Temt00N3f4AAdCCTpvERb-Sy8DZ8c/edit?usp=sharing)
+
+
